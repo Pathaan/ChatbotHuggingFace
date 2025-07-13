@@ -1,6 +1,6 @@
 # ChatbotHuggingFace
 
-```
+
 # 🤖 Hugging Face Chatbot (LangChain + Streamlit)
 
 A simple GenAI-powered chatbot built using Hugging Face models, LangChain, and deployed on [Render](https://render.com).
@@ -8,11 +8,10 @@ A simple GenAI-powered chatbot built using Hugging Face models, LangChain, and d
 ## 🔗 Live 
 🌍 [Click here to try it live](https://chatbothuggingface.onrender.com/)
 
----
 
 ## 📁 Project Structure
 
-```
+
 
 chatbot/
 ├── bot.py                # Main Streamlit app (or replace with your file)
@@ -20,7 +19,6 @@ chatbot/
 ├── .env                  # (Used locally, not pushed to GitHub)
 └── README.md
 
-````
 
 ---
 
@@ -111,5 +109,5 @@ All specified in `requirements.txt`.
 ## 📬 Contact
 
 **Created by Md Shahrukh (https://github.com/Pathaan)**
-Any queries, reach out via [(https://www.linkedin.com/in/md-shahrukh-locky/)]
+Any queries, reach out via https://www.linkedin.com/in/md-shahrukh-locky/
 
