@@ -15,8 +15,11 @@ A simple GenAI-powered chatbot built using Hugging Face models, LangChain, and d
 
 chatbot/
 ├── bot.py                # Main Streamlit app (or replace with your file)
+
 ├── requirements.txt      # Python dependencies
+
 ├── .env                  # (Used locally, not pushed to GitHub)
+
 └── README.md
 
 
@@ -109,5 +112,7 @@ All specified in `requirements.txt`.
 ## 📬 Contact
 
 **Created by Md Shahrukh (https://github.com/Pathaan)**
+
+
 Any queries, reach out via https://www.linkedin.com/in/md-shahrukh-locky/
 
